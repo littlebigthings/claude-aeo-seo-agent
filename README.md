@@ -2,7 +2,7 @@
 
 45 prompts that run an AI search program for a B2B company, split into 9 blocks across three levers: **Research** (know the field), **Analyse** (read what AI sees) and **Recommend** (decide what to add). One master file, `AGENT.md`, runs them in the right order, weekly, monthly and quarterly.
 
-By Veer Manhas, founder of [Lil Big Things](https://lilbigthings.com), a B2B agency for AI search visibility and websites.
+By [Veer Manhas](https://www.linkedin.com/in/veer-manhas/), founder of [Lil Big Things](https://lilbigthings.com), a B2B agency for AI search visibility and websites.
 
 ## What's inside
 
@@ -128,6 +128,6 @@ If your Claude setup supports scheduled tasks, schedule the weekly run with the 
 
 ## Feedback
 
-Tried it? Tell me what worked and what didn't on LinkedIn, or open an issue here. I'd love to make it better.
+Tried it? Tell me what worked and what didn't [on LinkedIn](https://www.linkedin.com/in/veer-manhas/), or open an issue here. I'd love to make it better.
 
 More on AI search for B2B: [lilbigthings.com](https://lilbigthings.com)
